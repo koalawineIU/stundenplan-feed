@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Stundenplan RSS Feed</title>
+<link>https://github.com</link>
+<description>Täglicher Stundenplan der IU Hannover</description>
+<language>de-de</language>
+<lastBuildDate>2024-01-01T08:00:00Z</lastBuildDate>
+<item>
+<title>Test Eintrag</title>
+<description>Das ist ein Test</description>
+<pubDate>2024-01-01</pubDate>
+<guid>test-123</guid>
+</item>
+</channel>
+</rss>
